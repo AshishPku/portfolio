@@ -91,7 +91,6 @@ function Header() {
               }}
             />
           </div>
-          {/* <hr /> */}
           <ul className="menuNavItems">
             <li>
               <a
