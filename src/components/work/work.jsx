@@ -34,6 +34,13 @@ function Work() {
       github: "https://github.com/AshishPku/ChatWEB/tree/gitinit_ashish",
       heading: "Chat Web",
     },
+    {
+      image:
+        "https://res.cloudinary.com/ddb8qrjvx/image/upload/v1742993557/Screenshot_2025-03-26_182150_fzrgwm.png",
+      site: "https://portfolio-tajj.vercel.app/",
+      github: "https://github.com/AshishPku/portfolio",
+      heading: "PortFolio",
+    },
   ];
   const Item = styled(Paper)(({ theme }) => ({
     ...theme.typography.body2,
